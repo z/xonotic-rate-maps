@@ -14,7 +14,7 @@ e.g. `./all run -game xonotic-rate-maps +exec rate_maps.cfg`
 Start campaign.
 
 *binds are*:
-1 good
-2 bad
-3 kansas
-j kill yourself (killing yourself wins the match)
+* 1 good
+* 2 bad
+* 3 kansas
+* j kill yourself (killing yourself wins the match)
