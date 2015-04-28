@@ -4,7 +4,8 @@
 #
 # [gametype]:  (dm|tdm|ctf|lms|dom ... etc); default gametype is dm
 # [directory]:  (Optional) if you wan to use a folder other than ~/.xonotic/data
-# [output type]: (Optional) if you'd like to output campaign instead of g_maplist
+# [output type]: (Optional) if you'd like to output campaign instead of g_maplist (lying aboutt this)
+# TODO: refactor the code to simplify and generate an array that will loop through and output either type ^
 
 create_maplist() {
   # Start the maplist string

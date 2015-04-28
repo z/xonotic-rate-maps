@@ -17,4 +17,6 @@ Start campaign.
 * 1 good
 * 2 bad
 * 3 kansas
+* 4 incomplete
+* 5 needs love
 * j kill yourself (killing yourself wins the match)
