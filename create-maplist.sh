@@ -89,7 +89,7 @@ create_maplist() {
         echo "[ADDING] $mapname to the list"
         #if [[ $3 != "" ]]; then
         # two minutes long, kill yourself to end match
-        mapname='"'$t'","'$mapname'","0","1","-1","2",,"",""\n'
+        mapname='"'$t'","'$mapname'","0","1","-1","2",,"'$mapname'",""\n'
         #else
         #  mapname="$t"\_"$mapname "
         #fi

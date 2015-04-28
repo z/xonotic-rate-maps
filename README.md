@@ -19,4 +19,6 @@ Start campaign.
 * 3 kansas
 * 4 incomplete
 * 5 needs love
+* 0 novelty
+* m must
 * j kill yourself (killing yourself wins the match)
